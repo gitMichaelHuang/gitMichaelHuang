@@ -15,6 +15,7 @@ I'm a new college graduate looking for full-time software engineering roles.
 
 - https://gitmichaelhuang.github.io
 - https://www.linkedin.com/in/michaelhuang6/
+- https://leetcode.com/u/gitMichaelHuang/
 
 ### ⚡ Fun fact: 
 
