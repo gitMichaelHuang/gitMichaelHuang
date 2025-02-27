@@ -9,7 +9,9 @@ I'm a new college graduate looking for full-time software engineering roles.
 
 ### 🌱 I’m currently learning
 
-- MERN stack
+- React, Node, Express
+- Tailwind
+- MongoDB
 
 ### 📫 How to reach me:
 
